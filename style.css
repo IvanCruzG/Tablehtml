@@ -1,0 +1,9 @@
+table{
+  border: solid;
+  border-collapse: collapse; /* collaspses all borders*/
+}
+td, th{
+  border: solid;
+  position: 0;
+  text-align: left;
+}
